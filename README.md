@@ -1,2 +1,0 @@
-# Purno
-lpr building
